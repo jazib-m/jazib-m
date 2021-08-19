@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Jazib </h1>
 <h3 align="center">
 I'm a Fullstack javascript Engineer with mixed interest in Web Development.
-I build things from scratch that works.. Eventually!
+I build things from scratch that work... Eventually!
 </h3>
   
 <p align="center">
@@ -15,14 +15,15 @@ I build things from scratch that works.. Eventually!
 
 - 🔭 I’m currently working on "Something Cool"
 - 🌱 I’m an Angular expert 
-- 🤔 I’m looking for help with "Money"
 - 💬 Ask me questions about **Javascript | GIT | Angular | Node.js**
 - ⚡ Fun fact: "I Love puzzles"
 
+## ⚡ Stackoverflow profile
+[![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=5383945&site=stackoverflow)](https://stackoverflow.com/users/5383945/jazib?tab=profile) 
 
 ## ⚡ Github Stats
 
-![Jazib's's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jazib-m&show_icons=true&count_private=true&custom_title=Sofwan%27s+GitHub+Stats)
+![Jazib's's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jazib-m&show_icons=true&count_private=true&custom_title=Jazib%27s+GitHub+Stats)
 ![Jazib's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=jazibmehmood)
 
 
@@ -31,6 +32,7 @@ I build things from scratch that works.. Eventually!
 |<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,5 +63,11 @@ I build things from scratch that works.. Eventually!
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://stackoverflow.com/users/5383945/jazib?tab=profile">
+  <img
+    alt="stackoverflow"
+    src="https://aleen42.github.io/badges/src/stackoverflow.svg"
   />
 </a>
