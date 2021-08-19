@@ -23,7 +23,7 @@ I build things from scratch that works.. Eventually!
 ## ⚡ Github Stats
 
 ![Jazib's's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jazib-m&show_icons=true&count_private=true&custom_title=Sofwan%27s+GitHub+Stats)
-![Jazib's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=jazib-m)
+![Jazib's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=jazibmehmood)
 
 
 
