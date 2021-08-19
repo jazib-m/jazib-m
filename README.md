@@ -26,7 +26,9 @@ I build things from scratch that work... Eventually!
 ## ⚡ Github Stats
 
 ![Jazib's's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jazib-m&show_icons=true&count_private=true&custom_title=Jazib%27s+GitHub+Stats)
+
 ![Jazib's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=jazibmehmood)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jazib-m)
 
 
